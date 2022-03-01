@@ -10,9 +10,13 @@ I denna delen av kursen kommer du lära dig vad vektorgrafik är, vad det använ
 📺 [Avsnitt 8.0 Video](https://youtube.com/) 
 
 ### Avsnitt 8.1: Skapa ditt personliga varumärke 
-📺  [ Avsnitt 8.1 Video](https://www.youtube.com/)  
+
+📺  [ Avsnitt 8.1 Video](https://www.youtube.com/)
+
 :notebook: Gör labb 8.1  
 
 ### Avsnitt 8.2: Animera en SVG 
+
 📺  [ Avsnitt 8.2 Video](https://www.youtube.com/)  
+
 :notebook: Gör labb 8.2 
