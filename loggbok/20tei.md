@@ -9,7 +9,7 @@ Kursplanering, presentation och introduktion till ämnet
 Nu är jag inbjuden i 19TEI-rummet, så vi kör där på Teams.
 
 ## Vecka 38 
-Genomgång av [HTMLdog HTML Beginner](https://htmldog.com/guides/html/beginner/). Vi diskuterade även UTF-8, ISO 8601 och andra nyttigheter.
+Genomgång av [HTMLdog HTML Beginner](https://htmldog.com/guides/html/beginner/). Vi diskuterade även UTF-8, [ISO 8601](https://m.xkcd.com/1179/) och andra nyttigheter.
 
 Uppstart av projektet "[Min Fula Lilla Sida](https://github.com/tcstenungsund/gak2022)".
 
@@ -18,19 +18,21 @@ Under detta första projekt, kom ihåg och iakta följande punkter för att undv
 * Undvik svenska tecken, åäö
 * Undvik_mellanslag_
 * Undvik STORA bokstäver
-* Lägg alla filer i samma katalog!
+* Lägg alla filer i samma [katalog](https://sv.wikipedia.org/wiki/Katalog_(datorteknik)!
 
 ## Vecka 39 
 Genomgång av [HTMLdog CSS Beginner](https://htmldog.com/guides/css/beginner/).
 
-Vi tittade på MDN Color picker, såg klippet "What the Heck Is A Hex Value Anyway" och talade om hur viktigt det är med "kontrast"*.
+Vi tittade på [MDN Color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool), såg klippet "[What the Heck Is A Hex Value Anyway](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" och talade om hur viktigt det är med "[kontrast](http://contrastrebellion.com/)" __*__.
 
 Fortsätt arbeta med "Min Fula Lilla Sida" och se till att ni testat och lekt med allt det som finns med i HTML Beginner och CSS Beginner.
 
 ## Vecka 40 
-Repetition av HTML Beginner och CSS Beginner, framför allt the Box Model. Vi tittar även på hjälpmedel för att välja färger, som Coolors, Picular, Adobe Color och Paletton.
+Repetition av HTML Beginner och CSS Beginner, framför allt the Box Model. Vi tittar även på hjälpmedel för att välja färger, som [Coolors](https://coolors.co/), [Picular](https://picular.co/), [Adobe Color](https://color.adobe.com/sv/create/color-wheel) och [Paletton](http://paletton.com/).
 
-MDN är ett av de bästa referensverken (och W3Fools talar om för oss att undvika W3Schools).
+![MDN - Not w3schools](https://eu1files.itslearning.com/data/3293/400701/w3schools.png)
+
+MDN är ett av de bästa referensverken (och [W3Fools](https://www.w3fools.com/) talar om för oss att undvika W3Schools).
 
 Vi jobbar vidare med "Min Fula Lilla Sida".
 
