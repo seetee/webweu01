@@ -23,7 +23,7 @@ Under detta första projekt, kom ihåg och iakta följande punkter för att undv
 ## Vecka 39 
 Genomgång av [HTMLdog CSS Beginner](https://htmldog.com/guides/css/beginner/).
 
-Vi tittade på [MDN Color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool), såg klippet "[What the Heck Is A Hex Value Anyway](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" och talade om hur viktigt det är med "[kontrast](http://contrastrebellion.com/)" __*__.
+Vi tittade på [MDN Color picker](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Colors/Color_picker_tool), såg klippet "[What the Heck Is A Hex Value Anyway](https://cgi.tutsplus.com/tutorials/what-the-heck-is-a-hex-value-anyway--ae-11932)" och talade om hur viktigt det är med "[kontrast](http://contrastrebellion.com/)" &#x1F539;.
 
 Fortsätt arbeta med "Min Fula Lilla Sida" och se till att ni testat och lekt med allt det som finns med i HTML Beginner och CSS Beginner.
 
@@ -80,10 +80,10 @@ Prov: Webbutveckling HT
 Vektorgrafik<br />Deadline: "Vektorgrafik - Personligt varumärke" (Söndag, 23:59)
 
 ## Vecka 50 
-[DISTANS]<br />Planeringsverktyg<br />Vi tittar på samarbetsverktyg som&nbsp;Comp*/Mockup, StyleTile*, "Style Tiles and How They Work", "Introduction to Style Tiles for Web Design" och "How to create a pattern library and why you should bother".<br />Allt detta är en del av den dokumentation man skall göra för en webbsida. Ibland används ord som grafisk profil, pattern library eller style guide. "Creating Style Guides"*
+[DISTANS]<br />Planeringsverktyg<br />Vi tittar på samarbetsverktyg som&nbsp;Comp*/Mockup, StyleTile &#x1F539;, "Style Tiles and How They Work", "Introduction to Style Tiles for Web Design" och "How to create a pattern library and why you should bother".<br />Allt detta är en del av den dokumentation man skall göra för en webbsida. Ibland används ord som grafisk profil, pattern library eller style guide. "Creating Style Guides" &#x1F539;
 
 ## Vecka 51 
-[DISTANS]<br />Planeringsverktyg – Wireframes och Moodboards<br />Vi ser "How to wireframe a website", "Wireframing for UX - What it is and how to get better at it", "The 7 wonders of wireframes"*&nbsp;och "What is a Wireframe?".<br />Vi gör labben “Planeringsverktyg – Wireframes”.<br />"How moodboards can save time, money and your sanity!"*, "Generating web design moodboards through collaboration"*, "How To Make A Mood Board".
+[DISTANS]<br />Planeringsverktyg – Wireframes och Moodboards<br />Vi ser "How to wireframe a website", "Wireframing for UX - What it is and how to get better at it", "The 7 wonders of wireframes"*&nbsp;och "What is a Wireframe?".<br />Vi gör labben “Planeringsverktyg – Wireframes”.<br />"How moodboards can save time, money and your sanity!" &#x1F539;, "Generating web design moodboards through collaboration" &#x1F539;, "How To Make A Mood Board".
 
 ## Vecka 52 
 [DISTANS]&nbsp;Click here to join the meeting<br />Terminssammanfattning.<br />Se videoklippet “Where do Browser Styles Come from?” (7 min) och leta sedan upp ett CSS Reset-dokument på webben och läs in dig på det så du får ett hum om hur det fungerar. Guldstjärna om det är ett som ingen annan valt.<br />Se videoklippet “Build a Classic Layout FAST in CSS Grid” (8:30 min) och fundera på hur din “Min Fula Lilla Sida” hade sett ut om du då kunnat det du nu lärde dig i videoklippet? Experimentera gärna med egen kod för att testa.<br />Gör sedan klart alla uppgifter du har efter dig, och LÄMNA IN UPPGIFTERNA!&nbsp; De som inte har lämnat in alla uppgifter när vårterminen börjar kommer att få F i det momentet, och riskerar att inte klara kursen.
