@@ -44,3 +44,18 @@ Länk till uppgift.
 ### Säkerhet (2% av kursen)
 * Kunskaper om säkerhet och förmåga att identifiera och motarbeta attacker.
 * Säkerhet och sätt att identifiera hot och sårbarheter samt hur attacker kan motverkas genom effektiva åtgärder. 
+
+
+## Ikoner 
+* Bok &#x1F4D7; / &#x1F4D8; / &#x1F4D9;
+* Cirkel &#x1F534; / &#x1F535;
+* Diamant &#x1F536; / &#x1F537; / &#x1F538; / &#x1F539;
+* Pil Upp/Ned &#x1F53A; / &#x1F53B;
+* Podcast &#x1f3a7; 
+* Film &#x1f3ac; 
+* Spel &#x1f3ae; 
+* Vinnare &#x1f3c6; 
+* Katalog Stängd/Öppen &#x1f4c1; / &#x1f4c2;
+* Diskett &#x1f4be;
+* Mobiltelefon &#x1f4f1; / &#x1f4f5;
+* PC &#x1f4bb;
