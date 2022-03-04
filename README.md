@@ -16,6 +16,7 @@ Länk till uppgift.
 
 8.2 Animera SVG 
 
+## Skolverkets riktlinjer
 
 ### HTML/CSS och bildhantering (40% av kursen)
 * Kunskaper om de tekniker som används för att bygga webbplatser och webbapplikationer.
