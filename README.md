@@ -16,6 +16,18 @@ Länk till uppgift.
 
 8.2 Animera SVG 
 
+## Installera Drupal
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': 'hotpink', 'edgeLabelBackground':'#ffffee', 'tertiaryColor': '#fff0f0'}}}%%
+flowchart TD
+    A([Utvecklingsmiljö]) --> B
+    B{Kör du ett vettigt OS?} -->|Nej, Windows| C
+    C[Installera massa bös] --> D
+    D[Starta om] --> E
+    B ---->|Ja, Linux| E((Kommandon för att starta/stoppa))
+```
+
 ## Skolverkets riktlinjer
 
 ### HTML/CSS och bildhantering (40% av kursen)
