@@ -25,7 +25,7 @@ flowchart TD
     B{Kör du ett vettigt OS?} -->|Nej, Windows| C
     C[Installera massa bös] --> D
     D[Starta om] --> E
-    B ---->|Ja, Linux| E((Kommandon för att starta/stoppa))
+    B ====>|Ja, Linux| E((Kommandon för att starta/stoppa))
 ```
 
 ## Skolverkets riktlinjer
