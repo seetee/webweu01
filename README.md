@@ -24,8 +24,10 @@ flowchart TD
     A([Utvecklingsmiljö]) --> B
     B{Kör du ett vettigt OS?} -->|Nej, Windows| C
     C[Installera massa bös] --> D
-    D[Starta om] --> E
-    B ====>|Ja, Linux| E((Kommandon för att starta/stoppa))
+    D[Starta om] --> F
+    B ====>|Ja, Linux| E 
+    E(Enkelt kommando) ==> F
+    F((Kommandon för att starta/stoppa))
 ```
 
 ## Skolverkets riktlinjer
