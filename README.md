@@ -19,15 +19,17 @@ Länk till uppgift.
 ## Installera Drupal
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': 'hotpink', 'edgeLabelBackground':'#ffffee', 'tertiaryColor': '#fff0f0'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#bddfff', 'edgeLabelBackground':'#ffffee', 'lineColor': 'hotpink', 'background':'hotpink'}}}%%
 flowchart TD
-    A([Utvecklingsmiljö]) --> B
-    B{Kör du ett vettigt OS?} -->|Nej, Windows| C
-    C[Installera massa bös] --> D
-    D[Starta om] --> F
-    B ====>|Ja, Linux| E 
-    E(Enkelt kommando) ==> F
-    F((Kommandon för att starta/stoppa))
+    start([Hur du startar Drupal <br />i en container med Docker]) ==> alla1
+    alla1 ==>|Ja, Linux| linux1 
+    linux1("Installera <br />#quot;Docker Engine <br />for Linux#quot; och <br />#quot;Docker Compose#quot;") ==> alla2
+    alla1{Kör du ett <br />vettigt OS?} -->|Nej, Windows| windows1
+    windows1[Aktivera WSL 2 och <br />installera senaste <br />Ubuntu LTS] --> windows2
+    windows2["Installera <br />#quot;Docker Desktop <br />for Windows#quot; <br />(stable)"] --> alla2
+    alla2(Tanka hem filen <br />docker-compose.yml <br />och lägg i en <br />projektkatalog) ==> alla3 
+    alla3(Kör <br />docker-compose up <br />och tryck Ctrl+c när <br />processen är klar) ==> slut
+    slut((Du kan nu köra <br />docker-compose start <br />och <br />docker-compose stop<br /> föŕ att kontrollera <br />din container.))
 ```
 
 ## Skolverkets riktlinjer
