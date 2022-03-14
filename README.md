@@ -19,7 +19,7 @@ Länk till uppgift.
 ## Installera Drupal
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#bddfff', 'edgeLabelBackground':'#ffffee', 'lineColor': 'hotpink', 'background':'hotpink'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#bddfff', 'edgeLabelBackground':'#d39100', 'lineColor': '#29568f'}}}%%
 flowchart TD
     start([Hur du startar Drupal <br />i en container med Docker]) ==> alla1
     alla1 ==>|Ja, Linux| linux1 
@@ -28,7 +28,7 @@ flowchart TD
     windows1[Aktivera WSL 2 och <br />installera senaste <br />Ubuntu LTS] --> windows2
     windows2["Installera <br />#quot;Docker Desktop <br />for Windows#quot; <br />(stable)"] --> alla2
     alla2(Tanka hem filen <br />docker-compose.yml <br />och lägg i en <br />projektkatalog) ==> alla3 
-    alla3(Kör <br />docker-compose up <br />och tryck Ctrl+c när <br />processen är klar) ==> slut
+    alla3("Kör <br />docker-compose up <br />och tryck [Ctrl]+[c] när <br />processen är klar") ==> slut
     slut((Du kan nu köra <br />docker-compose start <br />och <br />docker-compose stop<br /> föŕ att kontrollera <br />din container.))
 ```
 
