@@ -1,3 +1,7 @@
+# Skolverkets riktlinjer
+
+Nedan är ett direkt utdrag ur skolverket riktlinjer för kursen. Indelningen under rubriker och en uppskattning av hur stor del av kursen vissa moment tar upp är helt och hållet min egen.
+
 ## HTML och CSS (25% av kursen)
 Fördjupning i märkspråk där det huvudsakliga innehållet är standarderna för HTML och CSS med särskilt fokus på responsiv design
 
