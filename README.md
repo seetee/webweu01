@@ -29,7 +29,7 @@ flowchart TD
     windows2["Installera <br />#quot;Docker Desktop <br />for Windows#quot; <br />(stable)"] --> alla2
     alla2(Tanka hem filen <br />docker-compose.yml <br />och lägg i en <br />projektkatalog) ==> alla3 
     alla3("Kör <br />docker-compose up <br />och tryck [Ctrl]+[c] när <br />processen är klar") ==> slut
-    slut((Du kan nu köra <br />docker-compose start <br />och <br />docker-compose stop<br /> föŕ att kontrollera <br />din container.))
+    slut((Du kan nu köra <br />docker-compose start <br />och <br />docker-compose stop<br /> för att kontrollera <br />din container.))
 ```
 
 ## Ikoner 
